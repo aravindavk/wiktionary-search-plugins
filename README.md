@@ -19,3 +19,7 @@ To add more language edit the generate_plugins.py file
 11. [Sindhi (sd)](https://addons.mozilla.org/en-US/firefox/addon/wiktionary-sd/)
 12. [Tamil (ta)](https://addons.mozilla.org/en-US/firefox/addon/wiktionary-ta/)
 13. [Telugu (te)](https://addons.mozilla.org/en-US/firefox/addon/wiktionary-te/)
+
+
+# Ref
+https://developer.mozilla.org/en/docs/Creating_OpenSearch_plugins_for_Firefox
